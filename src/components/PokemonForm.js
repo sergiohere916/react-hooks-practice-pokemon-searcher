@@ -1,7 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
 import { Form } from "semantic-ui-react";
 
 function PokemonForm() {
+
+  // const [form, setSearchValue] = 
+
   return (
     <div>
       <h3>Add a Pokemon!</h3>
